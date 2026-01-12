@@ -14,7 +14,7 @@ and in client side a we used flutter
 
 ## The Project links
 
-# Model Machine by pyhone flask
+# Model Machine by python flask
 
 https://github.com/Ahmed1092002/model_job_recommend
 
